@@ -1,5 +1,11 @@
 # pyone
 
+2
+
+Función que recibe un parámetro.
+Condicionales.
+Convertimos el string str de la función input, que es pasado por el usuario para un valor entero int.
+
 3
 
 - Listas y tipo booleano en Python. Es posible almacenar elementos de diferentes tipos en una lista.
