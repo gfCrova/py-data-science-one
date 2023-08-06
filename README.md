@@ -1,5 +1,10 @@
 # pyone
 
+3
+
+- Listas y tipo booleano en Python. Es posible almacenar elementos de diferentes tipos en una lista.
+- Ciclos y bucles, específicamente la estructura de repetición for.
+
 4
 
 - Importar el método randrange para generar números enteros aleatorios entre 0 y 10.
