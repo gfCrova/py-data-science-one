@@ -2,9 +2,9 @@
 
 2
 
-Función que recibe un parámetro.
-Condicionales.
-Convertimos el string str de la función input, que es pasado por el usuario para un valor entero int.
+- Función que recibe un parámetro.
+- Condicionales.
+- Convertimos el string str de la función input, que es pasado por el usuario para un valor entero int.
 
 3
 
